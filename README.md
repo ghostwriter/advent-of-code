@@ -1,9 +1,10 @@
 # Advent Of Code
 
-[![GitHub Sponsors](https://img.shields.io/github/sponsors/ghostwriter?label=Sponsor+@ghostwriter/advent-of-code&logo=GitHub+Sponsors)](https://github.com/sponsors/ghostwriter)
 [![Automation](https://github.com/ghostwriter/advent-of-code/actions/workflows/automation.yml/badge.svg)](https://github.com/ghostwriter/advent-of-code/actions/workflows/automation.yml)
-[![Supported PHP Version](https://badgen.net/packagist/php/ghostwriter/advent-of-code?color=8892bf)](https://www.php.net/supported-versions)
-[![Downloads](https://badgen.net/packagist/dt/ghostwriter/advent-of-code?color=blue)](https://packagist.org/packages/ghostwriter/advent-of-code)
+[![PHP Version](https://badgen.net/packagist/php/ghostwriter/advent-of-code?color=777BB4)](https://www.php.net/supported-versions)
+[![Packagist Downloads](https://badgen.net/packagist/dt/ghostwriter/advent-of-code?color=F28D1A)](https://packagist.org/packages/ghostwriter/advent-of-code)
+[![PayPal](https://img.shields.io/badge/paypal-@codepoet-0079C1?logo=paypal&logoColor=002991)](https://paypal.me/codepoet)
+[![Sponsors via GitHub](https://img.shields.io/github/sponsors/ghostwriter?label=Sponsor+@ghostwriter/advent-of-code&logo=GitHub+Sponsors)](https://github.com/sponsors/ghostwriter)
 
 work in progress
 
